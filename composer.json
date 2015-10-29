@@ -13,5 +13,8 @@
   ],
   "support": {
     "issues": "https://www.drupal.org/project/issues/geophp"
+  },
+  "require": {
+    "phayes/geophp": "dev-master"
   }
 }
