@@ -1,0 +1,17 @@
+{
+  "name": "drupal/geophp",
+  "type": "drupal-module",
+  "description": "Wraps the geoPHP library: advanced geometry operations in PHP",
+  "homepage": "https://www.drupal.org/project/geophp",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "See contributors",
+      "homepage": "https://www.drupal.org/node/1466106/committers",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/geophp"
+  }
+}
